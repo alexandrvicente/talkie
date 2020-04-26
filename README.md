@@ -10,9 +10,9 @@ A cross-platform app for system-wide push-to-talk, written in C++ with Qt.
 ## Installing
 Download the latest release:
 
-- [Windows](https://github.com/alexandrvicente/talkie/releases/latest/Talkie.msi)
-- [Mac](https://github.com/alexandrvicente/talkie/releases/latest/Talkie.dmg)
-- [Linux (x86-64 AppImage)](https://github.com/alexandrvicente/talkie/releases/latest/Talkie-x86_64.AppImage)
+- [Windows](https://github.com/alexandrvicente/talkie/releases/latest/download/Talkie.msi)
+- [Mac](https://github.com/alexandrvicente/talkie/releases/latest/download/Talkie.dmg)
+- [Linux (x86-64 AppImage)](https://github.com/alexandrvicente/talkie/releases/latest/download/Talkie-x86_64.AppImage)
   - Depends on X11, OpenSSL 1.1 and amixer
 
 ## License
