@@ -1,0 +1,21 @@
+{
+  "title": "Talkie",
+  "icon": "../../resources/talkie.icns",
+  "background": "dmg_background.tiff",
+  "contents": [
+    {
+      "x": 98,
+      "y": 141,
+      "type": "file",
+      "path": "../../../build-Talkie-Desktop_Qt_5_14_2_clang_64bit-Release/Talkie.app"
+    },
+    { "x": 401, "y": 141, "type": "link", "path": "/Applications" }
+  ],
+  "window": {
+    "size": {
+      "width": 500,
+      "height": 300
+    }
+  },
+  "format": "UDBZ"
+}

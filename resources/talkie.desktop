@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Talkie
+Icon=talkie
+Exec=talkie
+Comment=A global push-to-talk app
+Categories=Utility;
+Terminal=false
+Hidden=false

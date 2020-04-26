@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>talkie.svg</file>
+        <file>talkie_off.svg</file>
+        <file>talkie_on.svg</file>
+        <file>talkie.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>close.wav</file>
+        <file>open.wav</file>
+    </qresource>
+    <qresource prefix="/misc">
+        <file>talkie.desktop</file>
+    </qresource>
+</RCC>
